@@ -1,0 +1,5 @@
+C:\Users\leonardo.souza\source\repos\SprintTraffic\SprintTraffic.Data\bin\Debug\netcoreapp3.0\SprintTraffic.Data.deps.json
+C:\Users\leonardo.souza\source\repos\SprintTraffic\SprintTraffic.Data\bin\Debug\netcoreapp3.0\SprintTraffic.Data.dll
+C:\Users\leonardo.souza\source\repos\SprintTraffic\SprintTraffic.Data\obj\Debug\netcoreapp3.0\SprintTraffic.Data.csprojAssemblyReference.cache
+C:\Users\leonardo.souza\source\repos\SprintTraffic\SprintTraffic.Data\obj\Debug\netcoreapp3.0\SprintTraffic.Data.AssemblyInfoInputs.cache
+C:\Users\leonardo.souza\source\repos\SprintTraffic\SprintTraffic.Data\obj\Debug\netcoreapp3.0\SprintTraffic.Data.AssemblyInfo.cs

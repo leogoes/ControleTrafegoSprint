@@ -1,0 +1,8 @@
+C:\Users\leonardo.souza\source\repos\SprintTraffic\SprintTraffic.Domain\bin\Debug\netcoreapp3.0\SprintTraffic.Domain.deps.json
+C:\Users\leonardo.souza\source\repos\SprintTraffic\SprintTraffic.Domain\bin\Debug\netcoreapp3.0\SprintTraffic.Domain.dll
+C:\Users\leonardo.souza\source\repos\SprintTraffic\SprintTraffic.Domain\bin\Debug\netcoreapp3.0\SprintTraffic.Domain.pdb
+C:\Users\leonardo.souza\source\repos\SprintTraffic\SprintTraffic.Domain\obj\Debug\netcoreapp3.0\SprintTraffic.Domain.csprojAssemblyReference.cache
+C:\Users\leonardo.souza\source\repos\SprintTraffic\SprintTraffic.Domain\obj\Debug\netcoreapp3.0\SprintTraffic.Domain.AssemblyInfoInputs.cache
+C:\Users\leonardo.souza\source\repos\SprintTraffic\SprintTraffic.Domain\obj\Debug\netcoreapp3.0\SprintTraffic.Domain.AssemblyInfo.cs
+C:\Users\leonardo.souza\source\repos\SprintTraffic\SprintTraffic.Domain\obj\Debug\netcoreapp3.0\SprintTraffic.Domain.dll
+C:\Users\leonardo.souza\source\repos\SprintTraffic\SprintTraffic.Domain\obj\Debug\netcoreapp3.0\SprintTraffic.Domain.pdb
